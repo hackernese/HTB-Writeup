@@ -5,7 +5,7 @@
 [![N|Solid](https://insec.in/wp-content/uploads/2020/07/hackthebox.png)](https://nodesource.com/products/nsolid)
 # HackTheBox Writeups :
 ---
-Writeups built by me which give you the initial idea of how i successfully owned both user and root of some the boxes that i tried to exploit. I do try to put the instructions as detailed and as step-by-step as possible, if there is any confusion, issue it as will.
+Writeups built by me which can give you the initial idea of how i successfully owned both user and root of some boxes that i tried to exploit. I do try to put the instructions as detailed and as step-by-step as possible, if there is any confusion, issue it as will.
 
 
 ### Structure of my Writeups :
