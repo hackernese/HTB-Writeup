@@ -25,7 +25,7 @@ Logs of each time i commit a new writeup. Its metadata and the commitment date.
 | Writeup | OS | BoxAuthor| Level | Commit-Date |
 | ------ | ------ | ------ | ------ | ------ |
 |Obscurity|Linux|clubby789|Medium|25/9/2020 |
-|Buff|Windows|egotisticalSW|Medium|26/9/2020 |
+|Buff|Windows|egotisticalSW|Easy|26/9/2020 |
 
 
 ### Credits :
