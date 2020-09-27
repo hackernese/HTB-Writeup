@@ -15,7 +15,7 @@
 $ cd Downloads # Changing to the directory where the pack is located
 $ sudo openvpn hacktheboxpack.ovpn
 ```
-- then you will have access to one of the boxes
+- then you will have access to all available boxes which you can check here --> https://app.hackthebox.eu/machines
 
 <p align="center"><img src="https://github.com/Zenix-Owler/HTB-Writeup/blob/master/ping?raw=true"></p>
 
