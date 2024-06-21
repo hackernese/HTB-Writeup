@@ -8,9 +8,7 @@
 
 <br>
 
-> `UPDATE` : The majority of writeups have been and will be uploaded at my [official blog](https://blog.hackernese.com/). This repository is mainly used to host the exported PDF versions of the writeups as well as tools and scripts that were used during the pwning.
+> `UPDATE` : The majority of write-ups have been and will be uploaded to my [official blog](https://blog.hackernese.com/). This repository is primarily used to host the exported PDF versions of the write-ups, as well as the tools and scripts used during the pwning.
 
 # Forewords
-
-If you are new to HackTheBox, make you you register an account first [here](https://www.hackthebox.com/). Then try to understand what `OpenVPN` is and how to make a connection. Here is a decent [video](https://www.youtube.com/watch?v=uyqk4zl6eyU) on how that is done.
-If you are still stuck, consider getting support at their official [Discord server](https://discord.com/invite/hRXnCFA)
+If you are new to HackTheBox, make sure you register an account first [here](https://www.hackthebox.com/). Then, try to understand what OpenVPN is and how to make a connection. Here is a decent [video](https://www.youtube.com/watch?v=uyqk4zl6eyU) on how that is done. If you are still stuck, consider getting support on their official [Discord server](https://discord.com/invite/hRXnCFA).
