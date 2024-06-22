@@ -1,0 +1,3 @@
+# Files or folders which has [IGNORE] within them are usually related to an active challenge/box, hence
+# should not be published
+*[IGNORE]*
